@@ -1,0 +1,60 @@
+body {
+	background-color:#f5cfc5;
+}
+
+header {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: salmon;
+	color: black;
+	padding: 20px;
+	text-align: center;
+}
+
+.infopersonal {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+h1, h2 {
+	margin: 0;
+}
+
+main {
+	padding: 20px;
+}
+
+section {
+	margin-bottom: 20px;
+}
+
+h3 {
+	margin: 0 0 10px 0;
+	background-color: salmon;
+
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+li h4 {
+	margin: 0;
+}
+
+li p {
+	margin: 0;
+}
+
+.expelaboral{
+	font-family: sans-serif;
+}
+
+.educacion{
+	font-family: sans-serif;
+}
